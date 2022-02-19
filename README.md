@@ -2,6 +2,11 @@
 
 This repository aims to demonstrate the basics of xUnit framework in Dotnet using C#.
 
+| Functionalities |  |
+| -- | -- |
+| xUnit functionalities | [Go to detail 📄](/xUnitBasics/xUnitBasics.Tests/README.md) |
+| xUnit tests context | [Go to detail 📄](/xUnitBasics/xUnitBasics.Tests/GuidGeneratorTests/TestContextAcrossMultipleClasses/README.md) |
+
 # Technologies
 
 - [.Net](https://dotnet.microsoft.com/en-us/download)
