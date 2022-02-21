@@ -12,6 +12,7 @@ This repository aims to demonstrate the basics of xUnit framework in Dotnet usin
 - [.Net](https://dotnet.microsoft.com/en-us/download)
 - [.Net CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/)
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [xUnit](https://xunit.net)
 
 # Setup
 
